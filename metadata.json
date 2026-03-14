@@ -1,0 +1,5 @@
+{
+  "name": "BarberBot Pro",
+  "description": "A professional Telegram booking bot for barbershops with an integrated admin dashboard.",
+  "requestFramePermissions": []
+}
